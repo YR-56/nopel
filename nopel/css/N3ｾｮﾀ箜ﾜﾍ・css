@@ -1,0 +1,35 @@
+﻿/* 記事一覧のarticle */
+
+#content_main .article {
+    
+    marigin-top: 20px;
+    color: #ff0000;
+   
+
+}
+
+.article-info h1 {
+    margin-top: 20px;
+    margin-bottom: 1.2rem;
+
+}
+
+.article span {
+    background-color: #FFF687;
+    border-radius: 15px;
+    color: #000000;
+
+    padding: 5px 8px 5px 8px;
+
+}
+
+.article time {
+    color: #8B8B8B;
+    margin-left: 1rem;
+
+}
+
+.article p {
+    color: #8B8B8B;
+    letter-spacing: 20px;
+}
