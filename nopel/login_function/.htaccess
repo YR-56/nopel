@@ -1,6 +1,6 @@
 DirectoryIndex index.php
 Options -Indexes
-AuthUserFile /home/manzaisaga/www/nopel/.htpasswd
+AuthUserFile 
 AuthType Basic
 AuthName "Web access"
 Satisfy any

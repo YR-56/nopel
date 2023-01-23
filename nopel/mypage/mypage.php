@@ -1,7 +1,7 @@
 
 <?php
 
-require_once("/home/manzaisaga/www/nopel/login_function/dbconnect.php");
+require_once("dbconnect.php");
 
 session_start();
 

@@ -98,7 +98,7 @@ mb_language('ja');
 mb_internal_encoding('UTF-8');
 
 //FROMヘッダーを作成
-$header = "From:nopelunei@gmail.com";
+$header = "From:?????????";
 
 if(mb_send_mail($mailTo, $subject, $body, $header,$companymail)){
 

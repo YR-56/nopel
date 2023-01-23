@@ -2,10 +2,10 @@
 
 function db_connect(){
 
-$hostname='mysql621.db.sakura.ne.jp';
-$dbname='manzaisaga_nopel'; //データベース名
-$user='manzaisaga';
-$pass='ryu1rou56'; //データベース接続時のパスワード
+$hostname='????.db.sakura.ne.jp';
+$dbname='????_nopel'; //データベース名
+$user='?????';
+$pass='??????'; //データベース接続時のパスワード
 
 try {
 

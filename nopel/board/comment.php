@@ -3,7 +3,7 @@
 session_start();
 
 //データベース接続
-require_once("/home/manzaisaga/www/nopel/login_function/dbconnect.php");
+require_once("????/www/nopel/login_function/dbconnect.php");
 
 $dbh = db_connect();
 

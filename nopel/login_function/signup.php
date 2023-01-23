@@ -142,7 +142,7 @@ if(isset($_POST['btn_confirm'])){
          mb_internal_encoding('UTF-8');
 
          //FROMヘッダーを作成
-         $header = 'From: nopelunei@gmail.com';
+         $header = 'From: ??????';
 
          if(mb_send_mail($mailTo, $body, $header, $companymail)){
             $message['success'] = "会員登録されました";

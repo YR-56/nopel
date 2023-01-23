@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-require_once("/home/manzaisaga/www/nopel/login_function/dbconnect.php");
+require_once("/dbconnect.php");
 
 
 //URLの？以降で渡されるIDをキャッチ
